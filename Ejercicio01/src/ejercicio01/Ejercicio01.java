@@ -17,10 +17,10 @@ public class Ejercicio01 {
     public static void main(String[] args) {
         // Solución a la problemática
 
-        int variable1 = 1;
-        int variable2 = 2;
-        int variable3 = 4;
-        int variable4 = 3;
+        int variable1 = 18;
+        int variable2 = 6;
+        int variable3 = 3;
+        int variable4 = 4;
         int variable5 = 5;
         int variable6 = 80;
 
